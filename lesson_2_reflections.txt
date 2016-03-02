@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 When a repository is initialized, a .git folder is created in the respective directory. In order to track the changes in a project.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area. It offers to add files as commit
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Results into a combined branch. 
